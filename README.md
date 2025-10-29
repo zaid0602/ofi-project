@@ -24,7 +24,7 @@ This repository contains the source code and documentation for the OFI project. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ofi-project.git
+   git clone https://github.com/zaid0602/ofi-project.git
    cd ofi-project
    ```
 
@@ -68,14 +68,3 @@ windsurf-project/
 ├── requirements.txt        # Python dependencies
 └── README.md               # This file
 ```
-
-## Next Steps
-
-- [ ] Add data preprocessing pipeline
-- [ ] Implement machine learning models for predictive analytics
-- [ ] Add user authentication
-- [ ] Deploy to a cloud platform
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
