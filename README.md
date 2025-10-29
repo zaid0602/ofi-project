@@ -46,10 +46,6 @@ This repository contains the source code and documentation for the OFI project. 
 
 ## Usage
 
-[Add instructions on how to use your project]
-
-## Usage
-
 1. Start the Streamlit application:
    ```bash
    streamlit run app.py
