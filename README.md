@@ -8,10 +8,11 @@ This repository contains the source code and documentation for the OFI project. 
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
-- Feature 4
+- 1 Interactive Data Visualization - Using Streamlit for dynamic and interactive data exploration
+- 2 Logistics Analytics - Tools for analyzing delivery performance and route optimization
+- 3 Data Management - Comprehensive data handling with multiple CSV data sources
+- 4 Modular Design - Well-structured codebase with separate utility functions
+- 5 Configurable Settings - Easy configuration through config.py for different deployment scenarios
 
 ## Getting Started
 
